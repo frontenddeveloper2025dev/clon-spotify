@@ -45,3 +45,22 @@ git clone https://github.com/alejandrabarcena/clon-spotify.git
 cd clon-spotify
 npm install
 npm run dev
+📁 Estructura base
+arduino
+Copiar
+Editar
+📦 clon-spotify
+├── public/
+│   └── vistaprevia.png
+├── src/
+│   ├── App.jsx
+│   ├── components/
+│   │   ├── SongList.jsx
+│   │   └── PlayerControls.jsx
+│   ├── assets/
+│   │   └── songs.js
+│   ├── styles/
+│   │   └── App.css
+├── index.html
+└── vite.config.js
+📝 Requisitos del Boot
