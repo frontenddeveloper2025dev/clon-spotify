@@ -13,8 +13,8 @@ Ideal para practicar:
 
 ## 🌐 Demo en vivo
 
-🔗 https://listadecontactosbootcamp-lskt.vercel.app/
-🔗 https://benevolent-custard-803d65.netlify.app/
+🔗 https://clon-spotify-sigma.vercel.app/
+🔗 https://clon-spotifybootcamp.netlify.app/
 
 ---
 
